@@ -1,0 +1,1 @@
+# Joint SCRDet++ training and Deployment repo. Use *FPN_Tensorflow_Rotation* for model training/export and use *Deployable_SCRDet_Object_Detection_Module* for a deployment compatible api. 
